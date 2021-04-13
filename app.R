@@ -1,4 +1,4 @@
-runGitHub("shiny_example","abpandey95" ,"rstudio")
+
 ## Load (install) packages ----
 library(devtools)
 # Necessary to run this
